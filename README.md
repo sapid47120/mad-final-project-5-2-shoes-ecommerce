@@ -9,33 +9,20 @@ The website allows users to explore a collection of shoes, view product details,
 Key Features
 
 Modern product display with images, prices, and categories
-
 Product description and dedicated detail pages
-
 Add-to-cart functionality with real-time updates
-
 Checkout form including:
-
 Customer name
-
 Phone number
-
 Address
-
 Payment method
-
 Order confirmation screen summarizing purchase details
-
 Responsive layout suitable for different screen sizes
-
 Well-structured folder architecture for scalability and readability
 
 Technologies Used
-
 HTML, CSS, JavaScript
-
 Responsive Web Design
-
 Modular code structure
 
 Purpose of the Project
