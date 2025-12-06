@@ -1,6 +1,6 @@
 # shoes_ecommerce_app
 
-hoes E-Commerce Website – MAD Final Project
+Shoes E-Commerce Website – MAD Final Project
 
 This project is a fully functional Shoes E-Commerce Website developed as part of my Mobile Application Development (MAD) Final Project. The goal of this project was to design and develop a complete online shopping experience with a clean UI, structured layout, and smooth user flow—from browsing products to completing an order.
 
